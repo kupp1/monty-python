@@ -9,5 +9,5 @@ You can get free api key on random.org.</br>
 ![5 doors wins](./diagrams/5%20doors%20wins.png)
 ![5 doors odds](./diagrams/5%20doors%20odds.png)
 
-![10 doors wins](./diagrams/5%20doors%20wins.png)
-![10 doors odds](./diagrams/5%20doors%20odds.png)
+![10 doors wins](./diagrams/10%20doors%20wins.png)
+![10 doors odds](./diagrams/10%20doors%20odds.png)
